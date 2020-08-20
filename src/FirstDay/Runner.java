@@ -1,5 +1,5 @@
-package AllBasics;
-import java.util.*;
+package FirstDay;
+
 public class Runner {
     //Here we will call function of kotlin FirstCode.kt from this java class
     //Even if we dont have any class over there, our file name will be used as Class name

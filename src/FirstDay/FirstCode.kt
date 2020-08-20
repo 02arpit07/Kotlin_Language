@@ -1,5 +1,5 @@
 @file:JvmName("First")
-package AllBasics;
+package FirstDay;
 import java.util.*;
 
 fun main(args: Array<String>){
